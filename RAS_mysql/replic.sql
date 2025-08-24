@@ -1,0 +1,5 @@
+SOURCE_HOST='mysql_master',
+SOURCE_USER='repl',
+SOURCE_PASSWORD='replicpass',
+SOURCE_SSL=0;
+START REPLICA;
