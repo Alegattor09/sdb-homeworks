@@ -10,10 +10,12 @@
 # Remove leading # to turn on a very important data integrity option: logging
 # changes to the binary log between backups.
 
+server_id = 2
+read_only = 1
 
-server_id = 1
-log_bin
-binlog_format = ROW
+#log_bin
+
+
 
 #
 # Remove leading # to set options mainly useful for reporting servers.
