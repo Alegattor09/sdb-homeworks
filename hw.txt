@@ -1,0 +1,3 @@
+1. Уязвимость в vsftpd (порт 21/tcp) https://www.exploit-db.com/exploits/49757
+2. Небезопасная конфигурация r-служб (порты 512, 513, 514/tcp)
+3. Уязвимость в сервисе distcc (порт 3632/tcp) https://www.exploit-db.com/exploits/9915
