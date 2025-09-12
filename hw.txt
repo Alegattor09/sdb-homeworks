@@ -1,3 +1,0 @@
-1. Уязвимость в vsftpd (порт 21/tcp) https://www.exploit-db.com/exploits/49757
-2. Небезопасная конфигурация r-служб (порты 512, 513, 514/tcp) службы (rexec, rlogin, rsh) используют механизм аутентификации, основанный на доверии между хостами (файлы /etc/hosts.equiv и ~/.rhosts), и передают все данные, включая учетные данные, в незашифрованном видеhttps://attack.mitre.org/techniques/T1040/
-3. Уязвимость в сервисе distcc (порт 3632/tcp) https://www.exploit-db.com/exploits/9915
